@@ -31,6 +31,8 @@ github_username:  it's Dave...
 
 # Build settings
 theme: minima
+
+
 plugins:
   - jekyll-feed
 
