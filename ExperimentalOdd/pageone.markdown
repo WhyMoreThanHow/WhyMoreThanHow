@@ -8,3 +8,7 @@ permalink: :basename:output_ext
 ## Page 1
  
 [go to Beta](pagetwo.html)
+
+---
+!["WhyMoreThanHow Logo"](WhyMoreThanHow85x60.png)
+---
