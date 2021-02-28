@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Insert title"
-date:   2021-02-17 20:57:41 +0000
+date:   2000-01-01 00:00:01 +0000
 categories: jekyll update
 ---
 `YYYY-MM-DD-title.MARKUP`
