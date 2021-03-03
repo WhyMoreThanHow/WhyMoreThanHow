@@ -23,7 +23,6 @@ Can also <small> do small text </small> like this.
 
 <p style="background-color:red; color:black">A red paragraph.</p>
 
-<aside><p>The Rough-skinned Newt defends itself with a deadly neurotoxin.</p></aside>
 <p>Please press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to re-render an MDN page.</p>
 <label for="fuel">Fuel level:</label>
 
