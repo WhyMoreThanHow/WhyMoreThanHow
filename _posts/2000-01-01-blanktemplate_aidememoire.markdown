@@ -10,7 +10,30 @@ categories: jekyll update
 ### Three etc
 Before <br> 
 after **bold** *itallic*
+---
 
+<big> direct HTML - permitted?</big>
+<p align="center">centered content</p>
+Can also <small> do small text </small> like this.
+
+<div id="named"> Is this allowed?  By Jeyll?</div>
+<div> <blink> test this</blink></div>
+
+<p style="color:red;">A red paragraph.</p>
+
+<p style="background-color:red; color:black">A red paragraph.</p>
+
+<aside><p>The Rough-skinned Newt defends itself with a deadly neurotoxin.</p></aside>
+<p>Please press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to re-render an MDN page.</p>
+<label for="fuel">Fuel level:</label>
+
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="50">
+    at 50/100
+</meter>
+---
 [title](https://www.example.com)
 
 ![alt text](/NonProcessed/WhyMoreThanHow85x60.png)
@@ -26,6 +49,8 @@ after **bold** *itallic*
 |ROW HEAD1 |HEAD2|
 |---|---|
 |TABLE ENTRY1|TABLE ENTRY2|
+
+
 ```
 {
   "firstName": "John",
