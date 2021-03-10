@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Questions
+title: Questions2
 permalink: :basename:output_ext
 ---
 

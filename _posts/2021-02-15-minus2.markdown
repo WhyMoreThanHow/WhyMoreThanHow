@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Another post -2"
-date:   2021-01-01 20:57:41 +0000
-categories: useful
----
- # Well, not very
-
-Two of many...

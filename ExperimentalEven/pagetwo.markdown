@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beta
+title: Betabeta
 permalink: :basename:output_ext
 ---
 
