@@ -1,5 +1,8 @@
-### *Questions summary link page*
-
+---
+layout: page
+title: Questions
+permalink: /questions/summary.html
+---
 <small>These are opinions expressed as statements for clarity. I am not burdened by being
 an academic, nor falsely encouraged by any narrow practitioner research 'success' - 
 so read critically, do your own research, find other sources and take what is useful. 
