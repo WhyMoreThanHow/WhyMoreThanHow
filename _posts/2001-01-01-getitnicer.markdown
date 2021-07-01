@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 ![image](/images/PembsHills.gif)
 
+[link to further down My Great Heading](#custom-id)
+
 `YYYY-MM-DD-title.MARKUP`
 #  One  
 ## Two
@@ -22,8 +24,13 @@ Can also <small> do small text </small> like this.
 <div> <blink> test this</blink></div>
 
 <p style="color:red;">A red paragraph.</p>
+<p style="background-color:cyan; color:black">Another paragraph.</p>
 
-<p style="background-color:red; color:black">A red paragraph.</p>
+    testindent - this appears as a blockquote without sidebar in PC
+
+&nbsp; &nbsp; &nbsp; another indent attempt using multiple ampersand nbsp
+
+
 
 <p>Please press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to re-render an MDN page.</p>
 <label for="fuel">Fuel level:</label>
@@ -35,6 +42,15 @@ Can also <small> do small text </small> like this.
     at 50/100
 </meter>
 ---
+
+<!--- This is an HTML comment in Markdown -->
+
+---
+
+[//]: # (a workaround style for a comment in markdown)
+ 
+---
+
 [title](https://www.example.com)
 
 ![alt text](/NonProcessed/WhyMoreThanHow85x60.png)
