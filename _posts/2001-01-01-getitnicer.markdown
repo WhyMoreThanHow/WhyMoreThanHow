@@ -92,3 +92,6 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+<!---This comment will be visible in HTML source but ignored by the HTML parser-->
+[//]:#(this comment should be ignored by markddown processor and will not appear in HTML source. It is a workaround)
